@@ -1,4 +1,3 @@
-# My Code here....
 def map_to_negativize(source_array)
   negative_array = []
   array_index = 0 
